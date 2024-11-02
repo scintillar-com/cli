@@ -24,7 +24,7 @@ The CLI can be further configured with an environment file, mostly for developme
 
 ## Running the CLI
 
-Simply run `node index.js` or `npm start` on root directory.
+Simply run `node index.js` or `npm start` on root directory OR using npx `npx '@scintillar/cli@latest'`.
 
 ## Features
 
