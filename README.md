@@ -22,6 +22,10 @@ The CLI can be further configured with an environment file, mostly for developme
     SCINTILLAR_CLI_DEBUG=true # Enable/Disable debug mode
 ```
 
+## Running the CLI
+
+Simply run `node index.js` or `npm start` on root directory.
+
 ## Features
 
 - (Soon) Select which tools to enable
